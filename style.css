@@ -181,6 +181,8 @@ footer a {
   text-decoration: none;
 }
 
+/* MEDIA QUERIES */
+
 @media screen and (max-width: 700px) {
   #featured li {
     width: 46%;
